@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421445116667",
+    "firebase_url": "https://iclasss-ccdd3.firebaseio.com",
+    "project_id": "iclasss-ccdd3",
+    "storage_bucket": "iclasss-ccdd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421445116667:android:adf8916e0871de38fec65e",
+        "android_client_info": {
+          "package_name": "com.scom.iclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421445116667-cpqjftjodglij29qct59oqt8nca8lmu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVE-ZSi_MIgIB0RTaqnh9Exiern4yo1mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421445116667-cpqjftjodglij29qct59oqt8nca8lmu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
